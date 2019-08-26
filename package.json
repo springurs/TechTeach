@@ -4,7 +4,9 @@
   "private": true,
   "dependencies": {
     "react": "^16.9.0",
+    "react-create": "^1.0.2",
     "react-dom": "^16.9.0",
+    "react-redux": "^7.1.0",
     "react-scripts": "3.1.1"
   },
   "scripts": {
